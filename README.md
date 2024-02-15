@@ -56,7 +56,7 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 Once you have set up all the configurations, the extension will showcase all the enabled coupon codes on the frontend shopping cart page.
 
 ![Screenshot (18)](https://github.com/patelanny/magento-2-easy-coupon-manager/assets/121279820/379bb1aa-93a3-49de-8436-e9e0e8c926a7)
-
+ 
 # Support
 Write to us at our <a href="https://magecomp.com/support/">Support Portal</a> for queries about our Magento 2 extensions or services.
 
